@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RealMau
+- 👀 I’m interested in learning as much as I can.
+- 🌱 I’m currently learning SQL and Python.
+- 💞️ I’m looking to collaborate on any proyect/community that will let me be part of it so I can learn through experience.
+- 📫 How to reach me: mauromonasterio04@gmail.com
