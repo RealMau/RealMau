@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RealMau
-- 👀 I’m interested in learning as much as I can.
-- 🌱 I’m currently learning SQL and Python.
-- 💞️ I’m looking to collaborate on any proyect/community that will let me be part of it so I can learn through experience.
+- 👀 I’m interested in learning as much as I can about Data Science and Machine Learning
+- 🌱 I’m currently learning Python among other habilities.
+- 💞️ I mainly learn with experience, so i'm looking forward to work!
 - 📫 How to reach me: mauromonasterio04@gmail.com
