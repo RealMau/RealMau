@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning as much as I can about Data Science and Machine Learning
 - 🌱 I’m currently learning Python among other habilities.
 - 💞️ I mainly learn with experience, so i'm looking forward to work!
-- 📫 How to reach me: mauromonasterio04@gmail.com
+- 📫 How to reach me: mauromonasterio04@gmail.com or at my Linkedin page: https://www.linkedin.com/in/mauro-cacabelos-319aa91a2/
